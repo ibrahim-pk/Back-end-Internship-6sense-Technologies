@@ -1,5 +1,7 @@
 ## Assignment Submission - Back-end Internship, 6sense Technologies
 📎 [***Problem Link (Click Here to View)***](https://bird-bag-be1.notion.site/Backend-Development-Challenge-16163fb7ed358081a262c7644962f2ad)
+📎 [***Live-Server-Link***](https://back-end-internship-6sense-technologies.onrender.com/)
+
 
 ### Create Category
 
