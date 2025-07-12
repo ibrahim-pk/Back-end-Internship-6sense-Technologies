@@ -7,7 +7,7 @@ import sendResponse from '../../shared/sendResponse';
 
 
 function generateProductCode(name: string): string {
-  const str = name.toLowerCase().replace(/\s+/g, ''); // remove all spaces
+  const str = name.toLowerCase().replace(/\s+/g, ''); 
   let substrings: { start: number; end: number; str: string }[] = [];
   let maxLen = 0;
   let start = 0;
