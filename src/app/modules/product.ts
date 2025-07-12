@@ -1,14 +1,13 @@
 import { Request, Response } from 'express';
 import crypto from 'crypto';
 import catchAsync from '../../shared/catchAsync';
-import { Category } from '../../model/category';
 import { SubCategory } from '../../model/subcategory';
 import { Product } from '../../model/product';
 import sendResponse from '../../shared/sendResponse';
 
 
 function generateProductCode(name: string): string {
-  const str = name.toLowerCase();
+  const str = name.toLowerCase().replace(/\s+/g, ''); // remove all spaces
   let substrings: { start: number; end: number; str: string }[] = [];
   let maxLen = 0;
   let start = 0;

@@ -233,6 +233,25 @@ http://localhost:5000/api/v1/product/get-products?subcategory=6872021500f80b8c16
     },
     "data": [
         {
+            "_id": "68728bcae169ff4a0659c0e1",
+            "name": "Alpha Sorter",
+            "description": "Test description",
+            "price": 200,
+            "discount": 50,
+            "image": "https://example.com/images/iphone16promax.jpg",
+            "status": "In Stock",
+            "productCode": "0231dd7-0alport8",
+            "subcategory": {
+                "_id": "6872021500f80b8c16e1a072",
+                "name": "Smartphones"
+            },
+            "createdAt": "2025-07-12T16:22:34.173Z",
+            "updatedAt": "2025-07-12T16:22:34.173Z",
+            "__v": 0,
+            "originalPrice": 200,
+            "finalPrice": 100
+        },
+        {
             "_id": "68720799b2d277bad8fbc931",
             "name": "iPhone 16 Pro Max",
             "description": "The newest iPhone with advanced camera and performance",
