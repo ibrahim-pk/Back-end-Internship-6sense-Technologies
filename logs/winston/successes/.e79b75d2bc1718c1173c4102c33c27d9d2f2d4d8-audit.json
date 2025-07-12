@@ -1,0 +1,70 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "F:\\6senseTechAssignment\\server\\logs\\winston\\successes\\.e79b75d2bc1718c1173c4102c33c27d9d2f2d4d8-audit.json",
+    "files": [
+        {
+            "date": 1752255943700,
+            "name": "F:\\6senseTechAssignment\\server\\logs\\winston\\successes\\phu-2025-11-07-23-success.log",
+            "hash": "173c5699d134d7840845cc60202e14733d707928cb0c1b4be895b4e034fa2a7c"
+        },
+        {
+            "date": 1752257099706,
+            "name": "F:\\6senseTechAssignment\\server\\logs\\winston\\successes\\phu-2025-12-07-00-success.log",
+            "hash": "1bbb3bf311e4497b6a4f5be0281c13f9c9acf654d6df6f03be4144a99c5126ff"
+        },
+        {
+            "date": 1752284463885,
+            "name": "F:\\6senseTechAssignment\\server\\logs\\winston\\successes\\phu-2025-12-07-07-success.log",
+            "hash": "b2b8997261201811d5a272bcac7df7094368aaa691b6d9f46f08eebe54198f15"
+        },
+        {
+            "date": 1752286051963,
+            "name": "F:\\6senseTechAssignment\\server\\logs\\winston\\successes\\phu-2025-12-07-08-success.log",
+            "hash": "8fb635aa2b29a6ca804c749d7c20620fe178c56fa8f9c7ffd8e8bf5b3e72ceea"
+        },
+        {
+            "date": 1752291467874,
+            "name": "F:\\6senseTechAssignment\\server\\logs\\winston\\successes\\phu-2025-12-07-09-success.log",
+            "hash": "b64403878cd2809ccfe16c6bd9d4daeb8d29dda9b1fe7736999e7ace952c4675"
+        },
+        {
+            "date": 1752292956213,
+            "name": "F:\\6senseTechAssignment\\server\\logs\\winston\\successes\\phu-2025-12-07-10-success.log",
+            "hash": "0f21110a4a69526a60363e3ae8177f5b4334f09f616c3978ba2c5c10cb511721"
+        },
+        {
+            "date": 1752298597981,
+            "name": "F:\\6senseTechAssignment\\server\\logs\\winston\\successes\\phu-2025-12-07-11-success.log",
+            "hash": "b6a09fb1465d1740795a0169e2416c47053aa756c42f32167a89bbfc71a80676"
+        },
+        {
+            "date": 1752300026414,
+            "name": "F:\\6senseTechAssignment\\server\\logs\\winston\\successes\\phu-2025-12-07-12-success.log",
+            "hash": "81975692432fd75abef30375fe20ee869ff0ec84617fd44505cc8d8605756ca0"
+        },
+        {
+            "date": 1752304076854,
+            "name": "F:\\6senseTechAssignment\\server\\logs\\winston\\successes\\phu-2025-12-07-13-success.log",
+            "hash": "38cccb9879df5fc189d6f20c73c29aa2a270602287662599c2b1bb68125cba85"
+        },
+        {
+            "date": 1752316175251,
+            "name": "F:\\6senseTechAssignment\\server\\logs\\winston\\successes\\phu-2025-12-07-16-success.log",
+            "hash": "be1244dc05a8058a9000d9eab21b1189ca5cb0fe603f3d4d00a37a37318668e8"
+        },
+        {
+            "date": 1752319457629,
+            "name": "F:\\6senseTechAssignment\\server\\logs\\winston\\successes\\phu-2025-12-07-17-success.log",
+            "hash": "cc9fb2442370c53d9ca3fb51330f35cebbdbe82b838e14f92752bc5436d85948"
+        },
+        {
+            "date": 1752322643190,
+            "name": "F:\\6senseTechAssignment\\server\\logs\\winston\\successes\\phu-2025-12-07-18-success.log",
+            "hash": "64f879e5f54cffe4febdf65205f2eb77e881e3a01da2de4764c9225103f39714"
+        }
+    ],
+    "hashType": "sha256"
+}

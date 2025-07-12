@@ -1,0 +1,1 @@
+Sat Jul 12 2025 18:42:44  [PH] error: globalErrorHandler Cannot populate path `category` because it is not in your schema. Set the `strictPopulate` option to false to override.
