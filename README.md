@@ -318,3 +318,6 @@ http://localhost:5000/api/v1/product/products/687238049f9da41c63b5d9b6
 ### Delete  Product by Id
 http://localhost:5000/api/v1/product/products/product-id
 
+## Data Model diagram
+<img width="781" height="393" alt="image" src="https://github.com/user-attachments/assets/1432f0d3-b302-49fb-a3c4-ba5a24309ab6" />
+
